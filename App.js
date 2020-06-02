@@ -8,7 +8,7 @@ import ReviewForm from "./app/screens/reviewForm";
 import SubmissionScreen from "./app/screens/Submitted";
 
 const Stack = createStackNavigator();
-//HIhi
+//hi from zj
 function App() {
   return (
     <NavigationContainer>
